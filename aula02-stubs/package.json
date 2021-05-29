@@ -1,0 +1,15 @@
+{
+  "name": "aula02-stubs",
+  "version": "1.0.0",
+  "description": "São usados pra substituir algum comportamento do sistema por objetos estáticos, criando-se também diferentes mocks para cada cenário possível.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/service.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^9.2.4"
+  }
+}
