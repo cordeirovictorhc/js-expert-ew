@@ -1,6 +1,6 @@
-const Base = require("./base/base");
+const BaseEntity = require("./base/baseEntity");
 
-class Customer extends Base {
+class Customer extends BaseEntity {
   constructor({ id, name, age }) {
     super({ id, name });
 

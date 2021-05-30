@@ -1,1 +1,16 @@
-[{"id":"507c8729-fa0e-4fb1-adfe-bd024b92cfd9","name":"2","releaseYear":2020,"available":true},{"id":"130977a5-daa5-497c-9b14-5fd15315275d","name":"Focus","releaseYear":2020,"available":true}]
+[
+  {
+    "id": "61a4ddf6-f3e8-4452-8326-45024e44b962",
+    "name": "XTS",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "1bc6ddbd-1b4d-40fc-bbdc-f0fcc2864342",
+    "name": "Explorer",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]

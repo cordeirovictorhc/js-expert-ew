@@ -1,8 +1,8 @@
-class Base {
+class BaseEntity {
   constructor({ id, name }) {
     this.id = id;
     this.name = name;
   }
 }
 
-module.exports = Base;
+module.exports = BaseEntity;
